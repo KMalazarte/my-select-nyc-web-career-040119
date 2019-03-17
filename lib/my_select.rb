@@ -6,3 +6,4 @@ def my_select(collection)
     new_array.push yield collection[i]
   i+=1
 end
+end 
